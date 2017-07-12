@@ -1,0 +1,6 @@
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\bin\Release\PdkXlsxFileIO.dll
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\bin\Release\PdkXlsxFileIO.pdb
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Release\PdkXlsxFileIO.Resource.resources
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Release\PdkXlsxFileIO.csproj.GenerateResource.Cache
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Release\PdkXlsxFileIO.dll
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Release\PdkXlsxFileIO.pdb

@@ -1,0 +1,14 @@
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\bin\Debug\PdkXlsxFileIO.dll
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\bin\Debug\PdkXlsxFileIO.pdb
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.dll
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.pdb
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.csprojResolveAssemblyReference.cache
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.Resource.resources
+H:\CS\Workspace\VSWorkspace\MyLab\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.csproj.GenerateResource.Cache
+H:\CS\Workspace\VSWorkspace\PdkXlsxFileIO\PdkXlsxFileIO\bin\Debug\PdkXlsxFileIO.dll
+H:\CS\Workspace\VSWorkspace\PdkXlsxFileIO\PdkXlsxFileIO\bin\Debug\PdkXlsxFileIO.pdb
+H:\CS\Workspace\VSWorkspace\PdkXlsxFileIO\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.csprojResolveAssemblyReference.cache
+H:\CS\Workspace\VSWorkspace\PdkXlsxFileIO\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.Resource.resources
+H:\CS\Workspace\VSWorkspace\PdkXlsxFileIO\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.csproj.GenerateResource.Cache
+H:\CS\Workspace\VSWorkspace\PdkXlsxFileIO\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.dll
+H:\CS\Workspace\VSWorkspace\PdkXlsxFileIO\PdkXlsxFileIO\obj\Debug\PdkXlsxFileIO.pdb
